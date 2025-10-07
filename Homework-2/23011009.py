@@ -1,5 +1,3 @@
-# signals_and_systems_homework_2.py
-# Açıklamalı sürüm - @brief, @param, @return formatında (kod değiştirilmedi)
 
 import sys
 import numpy as np
